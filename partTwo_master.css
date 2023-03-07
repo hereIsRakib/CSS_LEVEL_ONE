@@ -1,0 +1,17 @@
+body{
+  background: grey;
+}
+div{
+  background-color: Blue;
+  border-color: red;
+  border-width: 5px;
+  border-style: dotted ;
+}
+
+p{
+  color: yellow;
+}
+span{
+  background: red;
+  color:black;
+}
